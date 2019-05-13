@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RedBufferAssignment</string>
+    <string name="server_client_id">AIzaSyAfqPrlJpQfmEy1iFGvG_8sHCFkWnv4NzM</string>
+    <string name="login_success_message">Login Successful</string>
+    <string name="title_activity_map">Map</string>
+    <string name="check_internet_connection">Please check your internet connection or try again later.</string>
+</resources>
